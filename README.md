@@ -1,6 +1,8 @@
 # tictactoe-MLearning
 Tic-tac-toe with unbeatable AI using machine learning. 
 
+https://github.com/Dilipsripuram/tictactoe-MLearning/blob/master/game.PNG
+
 - Player vs Computer strategy uses machine learning. 
 - The program is trained with itself over 10,000 times and the resulting solutions are saved and updated each time.
 - Program saves all the winning and loosing conditions and branches thru turns using binary search algorithm.
