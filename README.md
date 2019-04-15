@@ -1,7 +1,7 @@
 # tictactoe-MLearning
 Tic-tac-toe with unbeatable AI using machine learning. 
 
-![Image of Yaktocat](https://github.com/Dilipsripuram/tictactoe-MLearning/blob/master/game.PNG)
+![Image of game](https://github.com/Dilipsripuram/tictactoe-MLearning/blob/master/game.PNG)
 
 - Player vs Computer strategy uses machine learning. 
 - The program is trained with itself over 10,000 times and the resulting solutions are saved and updated each time.
