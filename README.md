@@ -11,3 +11,4 @@ Tic-tac-toe with unbeatable AI using machine learning.
 - Hard mode will always tie or win against a human player. 
 
 # Demo file is here. Please test it out. 
+https://github.com/Dilipsripuram/tictactoe-MLearning/raw/master/tic-tac-toe/bin/Debug/tictactoe.exe
