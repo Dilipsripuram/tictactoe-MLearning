@@ -1,0 +1,14 @@
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tictactoe.form.resources
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.GenerateResource.Cache
+C:\Users\Dilip\Documents\tic-tac-toe\bin\Debug\tictactoe.exe.config
+C:\Users\Dilip\Documents\tic-tac-toe\bin\Debug\tictactoe.exe
+C:\Users\Dilip\Documents\tic-tac-toe\bin\Debug\tictactoe.pdb
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tic-tac-toe.csprojAssemblyReference.cache
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tic-tac-toe.csproj.CoreCompileInputs.cache
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tictactoe.exe
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tictactoe.pdb
+C:\Users\Dilip\Documents\tic-tac-toe\bin\Debug\tictactoe.exe.manifest
+C:\Users\Dilip\Documents\tic-tac-toe\bin\Debug\tictactoe.application
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tictactoe.exe.manifest
+C:\Users\Dilip\Documents\tic-tac-toe\obj\Debug\tictactoe.application
